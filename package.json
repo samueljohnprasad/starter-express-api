@@ -7,12 +7,16 @@
         "start": "node index.js",
         "dev": "nodemon index.js"
     },
+    "engines": {
+        "node": ">=16.0.0"
+      },
+      
     "repository": {
         "type": "git",
         "url": "git+https://github.com/cyclic-software/starter-express-api.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Google LLC",
+    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/cyclic-software/starter-express-api/issues"
     },

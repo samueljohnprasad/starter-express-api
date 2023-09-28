@@ -11,6 +11,7 @@ const postSchema = new mongoose.Schema({
     type: { type: String, required: true },
     coordinates: [Number],
   },
+  comments: [{ type: mongoose.Schema.Types.ObjectId, ref: "Comment" }],
 });
 
 postSchema.index({ location: "2dsphere" }); // Create a 2dsphere index on the location field
