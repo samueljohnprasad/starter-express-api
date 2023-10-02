@@ -26,3 +26,5 @@ const getMongoLink = () =>
 
 //const getMongoLink = () => "mongodb://localhost:27017";
 module.exports = { cartoonNames, getMongoLink };
+
+//{ "_id": ObjectId("your_object_id_here") }
