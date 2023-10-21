@@ -64,7 +64,7 @@ app.get("/nearby", async (req, res) => {
 app.post("/shop", async (req, res) => {
   try {
     const { userName, latitude, longitude } = req.body; // Assuming the request body contains the driver's name, latitude, and longitude
-    console.log(">>>body", req.body);
+    //console.log(">>>body", req.body);
     const user = new User({
       userName,
       location: {
@@ -93,7 +93,7 @@ app.post("/guest-login", async (req, res) => {
       userName =
         cartoonNames[randomNumber] + parseInt(Math.random() * 100000000);
       exists = await User.findOne({ userName });
-      console.log("while", { userName, exists });
+      //console.log("while", { userName, exists });
     } while (exists);
     const imageId = Math.floor(Math.random() * 8);
     const user = new User({
@@ -156,7 +156,7 @@ app.post("/verify-token", async (req, res) => {
 });
 
 app.get("/post-comment", async (req, res) => {
-  console.log("post-comment called");
+  //console.log("post-comment called");
   try {
     const postId = "651887ae27e73eb52e8e0d3c";
     const post = await Post.findById(postId);
@@ -173,7 +173,7 @@ app.get("/post-comment", async (req, res) => {
 
     post.comments.push(savedComment._id);
     const savedPost = await post.save();
-    console.log({ savedPost });
+    //console.log({ savedPost });
 
     res.status(201).json(savedComment);
   } catch (e) {
@@ -189,7 +189,7 @@ app.get("/post/:postId", async (req, res) => {
     const { page, timestamp } = req.query;
 
     const postId = req.params.postId;
-    console.log({ page, postId, timestamp });
+    //console.log({ page, postId, timestamp });
     const populateOptions = {
       path: "comments",
       populate: { path: "user" },
@@ -211,9 +211,8 @@ app.get("/post/:postId", async (req, res) => {
     if (!postWithComments) {
       return res.status(404).json({ error: "Post not found" });
     }
-    console.log("page", {
-      page,
-      commentslength: postWithComments.comments.length,
+    console.log("postWithComments", {
+      postWithComments: postWithComments.comments,
     });
     res.status(200).json(postWithComments);
   } catch (err) {
@@ -245,6 +244,7 @@ const getNearByUsersActiveUsers = async (userId, longitude, latitude) => {
         userName: user.userName,
         userId: user._id,
         coordinates: user.location.coordinates,
+        imageId: user.imageId,
       };
     });
 };
@@ -273,7 +273,7 @@ io.on("connection", (socket) => {
     currentUserId = data.userId;
 
     newCoordinates = [data.longitude, data.latitude];
-
+    console.log("data imageid", data);
     await User.findOneAndUpdate(
       { _id: data.userId },
       {
@@ -294,6 +294,7 @@ io.on("connection", (socket) => {
         userName: data.userName,
         userId: data.userId,
         coordinates: newCoordinates,
+        imageId: data.imageId,
       });
     });
     socket.emit("nearbyUsers", currentActiveUsers);
@@ -302,7 +303,7 @@ io.on("connection", (socket) => {
   socket.on("postNewPost", async (data, callback) => {
     try {
       const { userId, message, maxDistance, latitude, longitude } = data;
-      console.log("postNewPost", { data });
+      // console.log("postNewPost", { data });
       const post = new Post({
         message,
         user: userId,
@@ -333,31 +334,27 @@ io.on("connection", (socket) => {
     }
   });
 
-  socket.on(
-    "postComment",
-    async ({ postId, comment, userId, author, imageId }) => {
-      console.log("postComment", imageId);
-
-      try {
-        const post = await Post.findById(postId);
-        if (!post) {
-          return res.status(404).json({ error: "Post not found" });
-        }
-
-        const newComment = new Comment({
-          text: comment,
-          user: userId,
-        });
-        const savedComment = await newComment.save();
-        post.comments.push(savedComment._id);
-        await post.save();
-        console.log({ savedComment });
-        io.emit("newComment", savedComment);
-      } catch (e) {
-        console.log(e);
+  socket.on("postComment", async ({ postId, comment, userId }) => {
+    try {
+      const post = await Post.findById(postId);
+      if (!post) {
+        return res.status(404).json({ error: "Post not found" });
       }
+
+      const newComment = new Comment({
+        text: comment,
+        user: userId,
+      });
+      const savedComment = await newComment.save();
+      post.comments.push(savedComment._id);
+      await post.save();
+      const userComments = await savedComment.populate("user");
+      console.log("userComments", userComments);
+      io.emit("newComment", userComments);
+    } catch (e) {
+      console.log(e);
     }
-  );
+  });
 
   socket.on("disconnect", async () => {
     const currentActiveUsers = await getNearByUsersActiveUsers(
