@@ -4,7 +4,7 @@ const { model } = require("mongoose");
 const postSchema = new mongoose.Schema({
   message: { type: String, required: true },
   createAt: { type: Date, default: Date.now },
-  maxDistance: { type: String, required: true },
+  maxDistance: { type: Number, required: true },
   location: {
     type: { type: String, required: true },
     coordinates: [Number],
