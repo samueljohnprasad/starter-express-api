@@ -1,6 +1,6 @@
 const clusteringThreshold = 20;
 
-const calculateDistance = (lat1, lon1, lat2, lon2, hello) => {
+const calculateDistance = (lat1, lon1, lat2, lon2) => {
     const R = 6371e3; // Earth's radius in meters
     const φ1 = (lat1 * Math.PI) / 180;
     const φ2 = (lat2 * Math.PI) / 180;
@@ -13,7 +13,6 @@ const calculateDistance = (lat1, lon1, lat2, lon2, hello) => {
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 
     const distance = R * c;
-    console.log(">>>>>> distance", { lat1, lon1, lat2, lon2, distance, hello });
     return distance;
 };
 
