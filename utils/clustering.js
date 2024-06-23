@@ -1,27 +1,19 @@
+const { getPreciseDistance } = require("geolib");
+const { redisClient } = require("./redisClient");
+
 const clusteringThreshold = 20;
 
-const calculateDistance = (lat1, lon1, lat2, lon2) => {
-    const R = 6371e3; // Earth's radius in meters
-    const φ1 = (lat1 * Math.PI) / 180;
-    const φ2 = (lat2 * Math.PI) / 180;
-    const Δφ = ((lat2 - lat1) * Math.PI) / 180;
-    const Δλ = ((lon2 - lon1) * Math.PI) / 180;
-
-    const a =
-        Math.sin(Δφ / 2) * Math.sin(Δφ / 2) +
-        Math.cos(φ1) * Math.cos(φ2) * Math.sin(Δλ / 2) * Math.sin(Δλ / 2);
-    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-
-    const distance = R * c;
-    return distance;
-};
-
 const areImagesClose = (image1, image2) => {
-    const distance = calculateDistance(
-        image1.location.coordinates[1],
-        image1.location.coordinates[0],
-        image2.location.coordinates[1],
-        image2.location.coordinates[0]
+    const distance = getPreciseDistance(
+        {
+            latitude: image1.location.coordinates[1],
+            longitude: image1.location.coordinates[0],
+        },
+        {
+            latitude: image2.location.coordinates[1],
+            longitude: image2.location.coordinates[0],
+        },
+        0.01
     );
 
     return distance <= clusteringThreshold;
@@ -47,4 +39,43 @@ const clusterImages = (imageData) => {
     return clusteredMarkers;
 };
 
-module.exports = { clusterImages, calculateDistance };
+const getNearbyUsersFromRedis = async (latitude, longitude, radius) => {
+    try {
+        const users = await redisClient.hGetAll("activeUsers");
+
+        const nearbyUsers = [];
+        for (const [userId, userData] of Object.entries(users)) {
+            const { coordinates, userName, imageId, socketId } =
+                JSON.parse(userData);
+            console.log(
+                "xd currentActiveUsers coordinates",
+                coordinates,
+                userName,
+                userId
+            );
+            if (!coordinates?.[1] || !coordinates?.[0]) continue;
+            const distance = getPreciseDistance(
+                { latitude, longitude },
+                { latitude: coordinates[1], longitude: coordinates[0] },
+                0.01
+            );
+            console.log("xd currentActiveUsers distance", distance, radius);
+            if (distance <= radius) {
+                nearbyUsers.push({
+                    userName,
+                    userId,
+                    coordinates,
+                    imageId,
+                    socketId,
+                });
+            }
+        }
+
+        return nearbyUsers;
+    } catch (err) {
+        console.error("Error retrieving users from Redis:", err);
+        throw err;
+    }
+};
+
+module.exports = { clusterImages, getNearbyUsersFromRedis };

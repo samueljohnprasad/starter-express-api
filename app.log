@@ -4077,3 +4077,1345 @@
 2024-06-08T09:28:54.286Z [info]: User 6663140bcfc95567dc4d637f connected with socket ID tL5tp8V2k5wnPhifAAAB
 2024-06-08T09:28:54.955Z [info]: A user connected to socket, 66632e69a666db4c932dab30
 2024-06-08T09:28:54.957Z [info]: User 66632e69a666db4c932dab30 connected with socket ID MHDj_TjnRtPy5S2HAAAD
+2024-06-16T12:15:38.379Z [info]: Redis Client Connected
+2024-06-16T12:15:38.431Z [info]: Redis Client Ready
+2024-06-16T12:15:51.483Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-16T12:15:51.485Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID YO7wBbuU8fuC6M6LAAAB
+2024-06-16T12:17:12.414Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T12:17:22.046Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-16T12:17:22.048Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 7s4A0Fq6-0ra2O8_AAAD
+2024-06-16T12:17:22.141Z [info]: Token, token>>>
+2024-06-16T12:17:22.142Z [info]: Token is valid
+2024-06-16T12:37:56.259Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-16T12:38:07.342Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-16T12:38:07.404Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID n4zuySMM0PdCPw8OAAAF
+2024-06-16T12:38:07.414Z [info]: Token, token>>>
+2024-06-16T12:38:07.414Z [info]: Token is valid
+2024-06-16T12:38:07.419Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-16T12:39:11.768Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID n4zuySMM0PdCPw8OAAAF
+2024-06-16T12:40:33.383Z [info]: A user connected to socket, 666edd4191d8118dc3dbd25f
+2024-06-16T12:40:33.425Z [info]: User 666edd4191d8118dc3dbd25f connected with socket ID fwwOHRz550WTOsC1AAAH
+2024-06-16T12:40:35.372Z [info]: Token, token>>>
+2024-06-16T12:40:35.372Z [info]: Token is valid
+2024-06-16T13:15:15.507Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-16T13:15:58.883Z [info]: A user connected to socket, 666edd4191d8118dc3dbd25f
+2024-06-16T13:15:58.903Z [info]: Token, token>>>
+2024-06-16T13:15:58.904Z [info]: Token is valid
+2024-06-16T13:15:58.917Z [info]: User 666edd4191d8118dc3dbd25f connected with socket ID Y4GHAai6iA-re0K7AAAJ
+2024-06-16T13:16:16.902Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T13:17:03.122Z [info]: A user connected to socket, 666edd4191d8118dc3dbd25f
+2024-06-16T13:17:03.246Z [info]: Token, token>>>
+2024-06-16T13:17:03.247Z [info]: Token is valid
+2024-06-16T13:17:03.250Z [info]: User 666edd4191d8118dc3dbd25f connected with socket ID UJwaq_ZQigfq68rgAAAL
+2024-06-16T13:17:43.330Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T13:17:44.471Z [info]: A user connected to socket, 666edd4191d8118dc3dbd25f
+2024-06-16T13:17:44.497Z [info]: User 666edd4191d8118dc3dbd25f connected with socket ID rBMQ-nmnjcP8E2ZwAAAN
+2024-06-16T13:17:44.550Z [info]: Token, token>>>
+2024-06-16T13:17:44.551Z [info]: Token is valid
+2024-06-16T13:17:44.564Z [info]: Updated location for user 666edd4191d8118dc3dbd25f
+2024-06-16T14:56:19.924Z [info]: User 666edd4191d8118dc3dbd25f remove from redis with socket ID rBMQ-nmnjcP8E2ZwAAAN
+2024-06-16T14:56:34.545Z [info]: A user connected to socket, 666edd4191d8118dc3dbd25f
+2024-06-16T14:56:34.553Z [info]: User 666edd4191d8118dc3dbd25f connected with socket ID RhkpSMqkhgD6qPWKAAAP
+2024-06-16T14:56:34.574Z [info]: Token, token>>>
+2024-06-16T14:56:34.574Z [info]: Token is valid
+2024-06-16T14:56:34.583Z [info]: Updated location for user 666edd4191d8118dc3dbd25f
+2024-06-16T14:56:50.813Z [info]: User 666edd4191d8118dc3dbd25f remove from redis with socket ID RhkpSMqkhgD6qPWKAAAP
+2024-06-16T14:57:08.008Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T14:57:08.022Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID umwOJnAJWgZH5_fmAAAR
+2024-06-16T14:57:08.022Z [info]: Token, token>>>
+2024-06-16T14:57:08.022Z [info]: Token is valid
+2024-06-16T14:57:08.028Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T15:02:16.339Z [info]: Redis Client Connected
+2024-06-16T15:02:16.349Z [info]: Redis Client Ready
+2024-06-16T15:02:20.914Z [info]: Redis Client Connected
+2024-06-16T15:02:20.942Z [info]: Redis Client Ready
+2024-06-16T15:02:26.173Z [info]: Redis Client Connected
+2024-06-16T15:02:26.177Z [info]: Redis Client Ready
+2024-06-16T15:02:32.385Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:02:32.387Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 7l-BsuWn635mRFCvAAAB
+2024-06-16T15:02:38.775Z [info]: Redis Client Connected
+2024-06-16T15:02:38.790Z [info]: Redis Client Ready
+2024-06-16T15:02:59.309Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:02:59.321Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID LhfLuP59jzRhuTzNAAAB
+2024-06-16T15:03:07.010Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T15:03:08.129Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:03:08.130Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID TU040mBCZTmXknQgAAAD
+2024-06-16T15:03:08.193Z [info]: Token, token>>>
+2024-06-16T15:03:08.194Z [info]: Token is valid
+2024-06-16T15:03:08.213Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T15:05:19.262Z [info]: Redis Client Connected
+2024-06-16T15:05:19.283Z [info]: Redis Client Ready
+2024-06-16T15:05:23.248Z [info]: Redis Client Connected
+2024-06-16T15:05:23.256Z [info]: Redis Client Ready
+2024-06-16T15:05:40.443Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:05:40.445Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID S74C9LGUMgAlMxocAAAB
+2024-06-16T15:20:10.157Z [info]: Redis Client Connected
+2024-06-16T15:20:10.166Z [info]: Redis Client Ready
+2024-06-16T15:20:24.424Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:20:24.437Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID AG4Z6zItMYbg9RoDAAAB
+2024-06-16T15:21:19.942Z [info]: Redis Client Connected
+2024-06-16T15:21:19.972Z [info]: Redis Client Ready
+2024-06-16T15:21:27.612Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T15:21:27.615Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID T_4J0Rtw6q7GZJ9aAAAB
+2024-06-16T18:46:48.694Z [info]: Redis Client Connected
+2024-06-16T18:46:48.707Z [info]: Redis Client Ready
+2024-06-16T18:47:08.450Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T18:47:08.478Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID hRJU1QHwllKUzMVNAAAB
+2024-06-16T19:01:18.102Z [info]: Redis Client Connected
+2024-06-16T19:01:18.183Z [info]: Redis Client Ready
+2024-06-16T19:01:32.732Z [info]: Redis Client Connected
+2024-06-16T19:01:32.736Z [info]: Redis Client Ready
+2024-06-16T19:01:41.734Z [info]: Redis Client Connected
+2024-06-16T19:01:41.756Z [info]: Redis Client Ready
+2024-06-16T19:01:54.900Z [info]: Redis Client Connected
+2024-06-16T19:01:54.904Z [info]: Redis Client Ready
+2024-06-16T19:02:05.188Z [info]: Redis Client Connected
+2024-06-16T19:02:05.214Z [info]: Redis Client Ready
+2024-06-16T19:02:27.367Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:02:27.371Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 9kHplSST7z8LNUanAAAB
+2024-06-16T19:02:32.917Z [info]: Redis Client Connected
+2024-06-16T19:02:32.925Z [info]: Redis Client Ready
+2024-06-16T19:02:43.441Z [info]: Redis Client Connected
+2024-06-16T19:02:43.476Z [info]: Redis Client Ready
+2024-06-16T19:02:54.377Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:02:54.379Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID -UmYqGVz_hLsJqwxAAAB
+2024-06-16T19:03:17.104Z [info]: Redis Client Connected
+2024-06-16T19:03:17.138Z [info]: Redis Client Ready
+2024-06-16T19:03:37.350Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:03:37.357Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 2e6QzHUbIwuSgtxJAAAB
+2024-06-16T19:03:43.770Z [info]: Redis Client Connected
+2024-06-16T19:03:43.775Z [info]: Redis Client Ready
+2024-06-16T19:03:48.525Z [info]: Redis Client Connected
+2024-06-16T19:03:48.532Z [info]: Redis Client Ready
+2024-06-16T19:03:52.209Z [info]: Redis Client Connected
+2024-06-16T19:03:52.215Z [info]: Redis Client Ready
+2024-06-16T19:03:56.647Z [info]: Redis Client Connected
+2024-06-16T19:03:56.655Z [info]: Redis Client Ready
+2024-06-16T19:04:02.422Z [info]: Redis Client Connected
+2024-06-16T19:04:02.431Z [info]: Redis Client Ready
+2024-06-16T19:04:03.231Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:04:03.233Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID X8P-MRK-lmEGvHASAAAB
+2024-06-16T19:04:06.804Z [info]: Redis Client Connected
+2024-06-16T19:04:06.830Z [info]: Redis Client Ready
+2024-06-16T19:04:11.268Z [info]: Redis Client Connected
+2024-06-16T19:04:11.277Z [info]: Redis Client Ready
+2024-06-16T19:04:19.808Z [info]: Redis Client Connected
+2024-06-16T19:04:19.820Z [info]: Redis Client Ready
+2024-06-16T19:04:28.814Z [info]: Redis Client Connected
+2024-06-16T19:04:28.839Z [info]: Redis Client Ready
+2024-06-16T19:04:35.186Z [info]: Redis Client Connected
+2024-06-16T19:04:35.189Z [info]: Redis Client Ready
+2024-06-16T19:04:41.664Z [info]: Redis Client Connected
+2024-06-16T19:04:41.672Z [info]: Redis Client Ready
+2024-06-16T19:04:51.319Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:04:51.366Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID XBIwb7Ioi7eNkwqqAAAB
+2024-06-16T19:05:16.736Z [info]: Redis Client Connected
+2024-06-16T19:05:16.745Z [info]: Redis Client Ready
+2024-06-16T19:05:27.645Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:05:27.702Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID rnYbnU-NY3zOsO13AAAB
+2024-06-16T19:05:47.366Z [info]: Redis Client Connected
+2024-06-16T19:05:47.371Z [info]: Redis Client Ready
+2024-06-16T19:05:53.101Z [info]: Redis Client Connected
+2024-06-16T19:05:53.124Z [info]: Redis Client Ready
+2024-06-16T19:05:56.347Z [info]: Redis Client Connected
+2024-06-16T19:05:56.357Z [info]: Redis Client Ready
+2024-06-16T19:06:08.862Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:06:08.863Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID LByzV8lsDZog0E1RAAAB
+2024-06-16T19:06:16.933Z [info]: Redis Client Connected
+2024-06-16T19:06:16.947Z [info]: Redis Client Ready
+2024-06-16T19:06:18.980Z [info]: Redis Client Connected
+2024-06-16T19:06:18.987Z [info]: Redis Client Ready
+2024-06-16T19:06:27.339Z [info]: Redis Client Connected
+2024-06-16T19:06:27.349Z [info]: Redis Client Ready
+2024-06-16T19:06:35.936Z [info]: Redis Client Connected
+2024-06-16T19:06:35.952Z [info]: Redis Client Ready
+2024-06-16T19:06:36.429Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:06:36.431Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID jZqi-CFVM5SQyh0-AAAB
+2024-06-16T19:06:51.671Z [info]: Redis Client Connected
+2024-06-16T19:06:51.683Z [info]: Redis Client Ready
+2024-06-16T19:06:58.211Z [info]: Redis Client Connected
+2024-06-16T19:06:58.227Z [info]: Redis Client Ready
+2024-06-16T19:07:12.751Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:07:12.752Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID VRpwGMLqqTHvnezwAAAB
+2024-06-16T19:14:58.794Z [info]: Redis Client Connected
+2024-06-16T19:14:58.809Z [info]: Redis Client Ready
+2024-06-16T19:15:04.570Z [info]: Redis Client Connected
+2024-06-16T19:15:04.580Z [info]: Redis Client Ready
+2024-06-16T19:15:10.778Z [info]: Redis Client Connected
+2024-06-16T19:15:10.784Z [info]: Redis Client Ready
+2024-06-16T19:15:20.862Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:15:20.864Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID zA9tR9bATTki4KRzAAAB
+2024-06-16T19:16:13.939Z [info]: Redis Client Connected
+2024-06-16T19:16:13.944Z [info]: Redis Client Ready
+2024-06-16T19:16:26.835Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:16:26.858Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5EQfyxxiNRrlLAdZAAAB
+2024-06-16T19:17:13.672Z [info]: Redis Client Connected
+2024-06-16T19:17:13.703Z [info]: Redis Client Ready
+2024-06-16T19:17:16.247Z [info]: Redis Client Connected
+2024-06-16T19:17:16.252Z [info]: Redis Client Ready
+2024-06-16T19:17:20.665Z [info]: Redis Client Connected
+2024-06-16T19:17:20.670Z [info]: Redis Client Ready
+2024-06-16T19:17:23.253Z [info]: Redis Client Connected
+2024-06-16T19:17:23.264Z [info]: Redis Client Ready
+2024-06-16T19:17:33.705Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:17:33.707Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID w0C3lZn_UbuGLqNnAAAB
+2024-06-16T19:17:44.508Z [info]: Redis Client Connected
+2024-06-16T19:17:44.525Z [info]: Redis Client Ready
+2024-06-16T19:18:05.888Z [info]: Redis Client Connected
+2024-06-16T19:18:05.893Z [info]: Redis Client Ready
+2024-06-16T19:18:10.142Z [info]: Redis Client Connected
+2024-06-16T19:18:10.146Z [info]: Redis Client Ready
+2024-06-16T19:18:28.796Z [info]: Redis Client Connected
+2024-06-16T19:18:28.802Z [info]: Redis Client Ready
+2024-06-16T19:18:34.929Z [info]: Redis Client Connected
+2024-06-16T19:18:34.936Z [info]: Redis Client Ready
+2024-06-16T19:18:38.447Z [info]: Redis Client Connected
+2024-06-16T19:18:38.456Z [info]: Redis Client Ready
+2024-06-16T19:18:47.333Z [info]: Redis Client Connected
+2024-06-16T19:18:47.351Z [info]: Redis Client Ready
+2024-06-16T19:18:53.772Z [info]: Redis Client Connected
+2024-06-16T19:18:53.775Z [info]: Redis Client Ready
+2024-06-16T19:18:58.582Z [info]: Redis Client Connected
+2024-06-16T19:18:58.586Z [info]: Redis Client Ready
+2024-06-16T19:19:02.375Z [info]: Redis Client Connected
+2024-06-16T19:19:02.379Z [info]: Redis Client Ready
+2024-06-16T19:19:05.911Z [info]: Redis Client Connected
+2024-06-16T19:19:05.914Z [info]: Redis Client Ready
+2024-06-16T19:19:15.099Z [info]: Redis Client Connected
+2024-06-16T19:19:15.116Z [info]: Redis Client Ready
+2024-06-16T19:19:18.118Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:19:18.120Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID zH1Ze7aS_MtNrRaSAAAB
+2024-06-16T19:19:20.796Z [info]: Redis Client Connected
+2024-06-16T19:19:20.838Z [info]: Redis Client Ready
+2024-06-16T19:19:27.047Z [info]: Redis Client Connected
+2024-06-16T19:19:27.074Z [info]: Redis Client Ready
+2024-06-16T19:19:30.770Z [info]: Redis Client Connected
+2024-06-16T19:19:30.780Z [info]: Redis Client Ready
+2024-06-16T19:19:41.500Z [info]: Redis Client Connected
+2024-06-16T19:19:41.509Z [info]: Redis Client Ready
+2024-06-16T19:20:03.953Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:20:03.957Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID jaePBvanR-9flBSNAAAB
+2024-06-16T19:20:11.509Z [info]: Redis Client Connected
+2024-06-16T19:20:11.517Z [info]: Redis Client Ready
+2024-06-16T19:20:15.929Z [info]: Redis Client Connected
+2024-06-16T19:20:15.939Z [info]: Redis Client Ready
+2024-06-16T19:20:26.102Z [info]: Redis Client Connected
+2024-06-16T19:20:26.125Z [info]: Redis Client Ready
+2024-06-16T19:20:29.715Z [info]: Redis Client Connected
+2024-06-16T19:20:29.731Z [info]: Redis Client Ready
+2024-06-16T19:20:30.730Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:20:30.754Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID EJO_zziLb4OQFf2GAAAB
+2024-06-16T19:21:23.435Z [info]: Redis Client Connected
+2024-06-16T19:21:23.439Z [info]: Redis Client Ready
+2024-06-16T19:21:31.465Z [info]: Redis Client Connected
+2024-06-16T19:21:31.469Z [info]: Redis Client Ready
+2024-06-16T19:21:37.737Z [info]: Redis Client Connected
+2024-06-16T19:21:37.741Z [info]: Redis Client Ready
+2024-06-16T19:21:43.880Z [info]: Redis Client Connected
+2024-06-16T19:21:43.895Z [info]: Redis Client Ready
+2024-06-16T19:21:45.445Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:21:45.446Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 3Ylrm1l4KuGvVVs-AAAB
+2024-06-16T19:22:37.393Z [info]: Redis Client Connected
+2024-06-16T19:22:37.403Z [info]: Redis Client Ready
+2024-06-16T19:22:47.047Z [info]: Redis Client Connected
+2024-06-16T19:22:47.055Z [info]: Redis Client Ready
+2024-06-16T19:22:58.976Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:22:58.978Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID tctixIHXEj27pPIBAAAB
+2024-06-16T19:25:00.403Z [info]: Redis Client Connected
+2024-06-16T19:25:00.453Z [info]: Redis Client Ready
+2024-06-16T19:25:20.649Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:25:20.651Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID vW437mNAAoIElgwJAAAB
+2024-06-16T19:26:24.631Z [info]: Redis Client Connected
+2024-06-16T19:26:24.635Z [info]: Redis Client Ready
+2024-06-16T19:26:27.712Z [info]: Redis Client Connected
+2024-06-16T19:26:27.719Z [info]: Redis Client Ready
+2024-06-16T19:26:33.997Z [info]: Redis Client Connected
+2024-06-16T19:26:34.012Z [info]: Redis Client Ready
+2024-06-16T19:26:35.971Z [info]: Redis Client Connected
+2024-06-16T19:26:35.979Z [info]: Redis Client Ready
+2024-06-16T19:26:41.604Z [info]: Redis Client Connected
+2024-06-16T19:26:41.608Z [info]: Redis Client Ready
+2024-06-16T19:26:44.914Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:26:44.916Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 4Y42H0PWaPz_10u4AAAB
+2024-06-16T19:27:06.508Z [info]: Redis Client Connected
+2024-06-16T19:27:06.517Z [info]: Redis Client Ready
+2024-06-16T19:27:13.350Z [info]: Redis Client Connected
+2024-06-16T19:27:13.377Z [info]: Redis Client Ready
+2024-06-16T19:27:17.402Z [info]: Redis Client Connected
+2024-06-16T19:27:17.449Z [info]: Redis Client Ready
+2024-06-16T19:27:26.260Z [info]: Redis Client Connected
+2024-06-16T19:27:26.270Z [info]: Redis Client Ready
+2024-06-16T19:27:35.615Z [info]: Redis Client Connected
+2024-06-16T19:27:35.624Z [info]: Redis Client Ready
+2024-06-16T19:27:39.353Z [info]: Redis Client Connected
+2024-06-16T19:27:39.359Z [info]: Redis Client Ready
+2024-06-16T19:27:49.388Z [info]: Redis Client Connected
+2024-06-16T19:27:49.391Z [info]: Redis Client Ready
+2024-06-16T19:27:57.925Z [info]: Redis Client Connected
+2024-06-16T19:27:57.935Z [info]: Redis Client Ready
+2024-06-16T19:28:13.520Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:28:13.546Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID _BKEmfB6KHE2jzbDAAAB
+2024-06-16T19:42:41.777Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T19:42:42.755Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:42:42.794Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID PQb9eBnsi-4VqU-_AAAD
+2024-06-16T19:42:42.862Z [info]: Token, token>>>
+2024-06-16T19:42:42.862Z [info]: Token is valid
+2024-06-16T19:42:42.898Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T19:43:07.082Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID PQb9eBnsi-4VqU-_AAAD
+2024-06-16T19:43:39.869Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:43:39.874Z [info]: Token, token>>>
+2024-06-16T19:43:39.874Z [info]: Token is valid
+2024-06-16T19:43:39.876Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID LNSvhlK8aRihFEuQAAAF
+2024-06-16T19:43:45.347Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T19:43:46.695Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:43:46.780Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID yKeMnII_WyTilxVKAAAH
+2024-06-16T19:43:46.794Z [info]: Token, token>>>
+2024-06-16T19:43:46.795Z [info]: Token is valid
+2024-06-16T19:44:59.926Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-16T19:45:01.117Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:45:01.137Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID FphKn2i5Y-KvGPdiAAAJ
+2024-06-16T19:45:01.245Z [info]: Token, token>>>
+2024-06-16T19:45:01.246Z [info]: Token is valid
+2024-06-16T19:45:01.249Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T19:50:03.000Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID FphKn2i5Y-KvGPdiAAAJ
+2024-06-16T19:50:05.733Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:50:05.825Z [info]: Token, token>>>
+2024-06-16T19:50:05.826Z [info]: Token is valid
+2024-06-16T19:50:05.832Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID yBuI6sH-6kYQK8GPAAAL
+2024-06-16T19:55:13.241Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-16T19:55:17.890Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T19:55:17.960Z [info]: Token, token>>>
+2024-06-16T19:55:17.964Z [info]: Token is valid
+2024-06-16T19:55:17.981Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID lQzrlE7EdzuhxLeTAAAN
+2024-06-16T20:03:15.756Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:03:16.997Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:03:17.000Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID cD2Mswo0tmCr4B3OAAAP
+2024-06-16T20:03:17.114Z [info]: Token, token>>>
+2024-06-16T20:03:17.114Z [info]: Token is valid
+2024-06-16T20:03:17.122Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:03:54.842Z [info]: Token, token>>>
+2024-06-16T20:03:54.843Z [info]: Token is valid
+2024-06-16T20:06:10.507Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID cD2Mswo0tmCr4B3OAAAP
+2024-06-16T20:06:11.793Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:06:11.796Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID jUjf_TQM81Wxl0DpAAAR
+2024-06-16T20:06:11.844Z [info]: Token, token>>>
+2024-06-16T20:06:11.844Z [info]: Token is valid
+2024-06-16T20:06:11.862Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:06:24.390Z [info]: Token, token>>>
+2024-06-16T20:06:24.390Z [info]: Token is valid
+2024-06-16T20:06:27.714Z [info]: Token, token>>>
+2024-06-16T20:06:27.714Z [info]: Token is valid
+2024-06-16T20:06:38.946Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID jUjf_TQM81Wxl0DpAAAR
+2024-06-16T20:08:05.564Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:08:05.569Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID ocyMK9lgoQYvo7q3AAAT
+2024-06-16T20:08:05.693Z [info]: Token, token>>>
+2024-06-16T20:08:05.694Z [info]: Token is valid
+2024-06-16T20:08:05.699Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:14:48.740Z [info]: Redis Client Connected
+2024-06-16T20:14:48.751Z [info]: Redis Client Ready
+2024-06-16T20:14:50.790Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:14:50.791Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID CIPGfha7YeWPeVlnAAAB
+2024-06-16T20:17:31.789Z [info]: Redis Client Connected
+2024-06-16T20:17:31.792Z [info]: Redis Client Ready
+2024-06-16T20:17:39.306Z [info]: Redis Client Connected
+2024-06-16T20:17:39.311Z [info]: Redis Client Ready
+2024-06-16T20:17:42.954Z [info]: Redis Client Connected
+2024-06-16T20:17:42.957Z [info]: Redis Client Ready
+2024-06-16T20:17:45.310Z [info]: Redis Client Connected
+2024-06-16T20:17:45.316Z [info]: Redis Client Ready
+2024-06-16T20:17:51.284Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:17:51.360Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID v9pZZ6qDt5EOJzqiAAAB
+2024-06-16T20:18:08.587Z [info]: Redis Client Connected
+2024-06-16T20:18:08.594Z [info]: Redis Client Ready
+2024-06-16T20:18:12.161Z [info]: Redis Client Connected
+2024-06-16T20:18:12.172Z [info]: Redis Client Ready
+2024-06-16T20:18:15.442Z [info]: Redis Client Connected
+2024-06-16T20:18:15.451Z [info]: Redis Client Ready
+2024-06-16T20:18:21.248Z [info]: Redis Client Connected
+2024-06-16T20:18:21.254Z [info]: Redis Client Ready
+2024-06-16T20:18:28.685Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:18:28.727Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID m-P8dB3K119svbBAAAAB
+2024-06-16T20:18:34.393Z [info]: Redis Client Connected
+2024-06-16T20:18:34.397Z [info]: Redis Client Ready
+2024-06-16T20:18:46.229Z [info]: Redis Client Connected
+2024-06-16T20:18:46.232Z [info]: Redis Client Ready
+2024-06-16T20:18:55.907Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:18:55.911Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID CsUCkjWjuAfBozzrAAAB
+2024-06-16T20:19:34.626Z [info]: Redis Client Connected
+2024-06-16T20:19:34.638Z [info]: Redis Client Ready
+2024-06-16T20:19:38.032Z [info]: Redis Client Connected
+2024-06-16T20:19:38.060Z [info]: Redis Client Ready
+2024-06-16T20:19:43.613Z [info]: Redis Client Connected
+2024-06-16T20:19:43.624Z [info]: Redis Client Ready
+2024-06-16T20:19:56.036Z [info]: Redis Client Connected
+2024-06-16T20:19:56.040Z [info]: Redis Client Ready
+2024-06-16T20:20:00.396Z [info]: Redis Client Connected
+2024-06-16T20:20:00.399Z [info]: Redis Client Ready
+2024-06-16T20:20:21.353Z [info]: Redis Client Connected
+2024-06-16T20:20:21.374Z [info]: Redis Client Ready
+2024-06-16T20:20:30.938Z [info]: Redis Client Connected
+2024-06-16T20:20:30.955Z [info]: Redis Client Ready
+2024-06-16T20:20:39.734Z [info]: Redis Client Connected
+2024-06-16T20:20:39.743Z [info]: Redis Client Ready
+2024-06-16T20:20:41.571Z [info]: Redis Client Connected
+2024-06-16T20:20:41.579Z [info]: Redis Client Ready
+2024-06-16T20:20:43.218Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:20:43.226Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 0GMovOHU6ywvUUcDAAAB
+2024-06-16T20:20:56.751Z [info]: Redis Client Connected
+2024-06-16T20:20:56.754Z [info]: Redis Client Ready
+2024-06-16T20:20:59.757Z [info]: Redis Client Connected
+2024-06-16T20:20:59.761Z [info]: Redis Client Ready
+2024-06-16T20:21:10.103Z [info]: Redis Client Connected
+2024-06-16T20:21:10.111Z [info]: Redis Client Ready
+2024-06-16T20:21:15.166Z [info]: Redis Client Connected
+2024-06-16T20:21:15.171Z [info]: Redis Client Ready
+2024-06-16T20:21:36.954Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:21:36.973Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID f3uz_Mbspm2q-n5XAAAB
+2024-06-16T20:22:03.295Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:23:37.955Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:23:38.046Z [info]: User 666f49c947e36043e295bf13 connected with socket ID JxZ7FjLhPQPa7oxtAAAD
+2024-06-16T20:23:40.509Z [info]: Token, token>>>
+2024-06-16T20:23:40.510Z [info]: Token is valid
+2024-06-16T20:23:45.416Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:23:45.426Z [info]: Token, token>>>
+2024-06-16T20:23:45.427Z [info]: Token is valid
+2024-06-16T20:23:45.430Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID O7FsyLUAZga1ipTzAAAF
+2024-06-16T20:23:48.173Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-16T20:23:48.191Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:23:49.826Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:23:50.094Z [info]: Token, token>>>
+2024-06-16T20:23:50.094Z [info]: Token is valid
+2024-06-16T20:23:50.128Z [info]: User 666f49c947e36043e295bf13 connected with socket ID uU4nyEX-YUB5An3sAAAH
+2024-06-16T20:23:50.143Z [info]: Updated location for user 666f49c947e36043e295bf13
+2024-06-16T20:23:50.429Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:23:50.434Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID oqm80IawHVKoX7OaAAAJ
+2024-06-16T20:23:50.449Z [info]: Token, token>>>
+2024-06-16T20:23:50.449Z [info]: Token is valid
+2024-06-16T20:23:50.470Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:25:40.636Z [info]: Redis Client Connected
+2024-06-16T20:25:40.780Z [info]: Redis Client Ready
+2024-06-16T20:25:59.056Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:25:59.094Z [info]: User 666f49c947e36043e295bf13 connected with socket ID ZoanpmCH1xMAHcIvAAAB
+2024-06-16T20:25:59.783Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:25:59.784Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID LwlR4t_DSBzl-O3xAAAD
+2024-06-16T20:27:17.067Z [info]: Redis Client Connected
+2024-06-16T20:27:17.111Z [info]: Redis Client Ready
+2024-06-16T20:27:37.130Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:27:37.172Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID dd8B-iMt8aSmTFaVAAAB
+2024-06-16T20:27:37.470Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:27:37.471Z [info]: User 666f49c947e36043e295bf13 connected with socket ID BYvoX0ReaO5KVg1nAAAD
+2024-06-16T20:28:15.958Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:28:15.959Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:28:19.300Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:28:19.306Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:28:19.311Z [info]: Token, token>>>
+2024-06-16T20:28:19.313Z [info]: Token is valid
+2024-06-16T20:28:19.313Z [info]: Token, token>>>
+2024-06-16T20:28:19.313Z [info]: Token is valid
+2024-06-16T20:28:19.313Z [info]: Token, token>>>
+2024-06-16T20:28:19.313Z [info]: Token is valid
+2024-06-16T20:28:19.339Z [info]: Token, token>>>
+2024-06-16T20:28:19.340Z [info]: Token is valid
+2024-06-16T20:28:19.340Z [info]: Token, token>>>
+2024-06-16T20:28:19.341Z [info]: Token is valid
+2024-06-16T20:28:19.341Z [info]: Token, token>>>
+2024-06-16T20:28:19.341Z [info]: Token is valid
+2024-06-16T20:28:19.362Z [info]: User 666f49c947e36043e295bf13 connected with socket ID 6G7khfzO65nvf_U2AAAG
+2024-06-16T20:28:19.362Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID ensxYrSARutLaNMdAAAH
+2024-06-16T20:29:09.579Z [info]: Redis Client Connected
+2024-06-16T20:29:09.589Z [info]: Redis Client Ready
+2024-06-16T20:29:10.246Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:29:10.291Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 2SNuLzyUvC7fiedWAAAB
+2024-06-16T20:29:10.610Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:29:10.611Z [info]: User 666f49c947e36043e295bf13 connected with socket ID _UAeXvCnPBUxJwVrAAAD
+2024-06-16T20:29:39.859Z [info]: Redis Client Connected
+2024-06-16T20:29:39.862Z [info]: Redis Client Ready
+2024-06-16T20:29:45.450Z [info]: Redis Client Connected
+2024-06-16T20:29:45.457Z [info]: Redis Client Ready
+2024-06-16T20:29:53.638Z [info]: Redis Client Connected
+2024-06-16T20:29:53.650Z [info]: Redis Client Ready
+2024-06-16T20:29:56.064Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:29:56.066Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID Tz0o5bxI73-XfbryAAAB
+2024-06-16T20:29:56.950Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:29:56.973Z [info]: User 666f49c947e36043e295bf13 connected with socket ID c89_cDGiTIVP0QHJAAAD
+2024-06-16T20:30:10.012Z [info]: Redis Client Connected
+2024-06-16T20:30:10.020Z [info]: Redis Client Ready
+2024-06-16T20:30:30.154Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:30:30.157Z [info]: User 666f49c947e36043e295bf13 connected with socket ID kzvFcfyUKXk_TzG3AAAB
+2024-06-16T20:30:30.948Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:30:30.949Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5cWwR41C-15xhfdNAAAD
+2024-06-16T20:31:34.900Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:31:34.900Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:31:40.912Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:31:40.926Z [info]: Token, token>>>
+2024-06-16T20:31:40.927Z [info]: Token is valid
+2024-06-16T20:31:40.927Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:31:40.937Z [info]: Token, token>>>
+2024-06-16T20:31:40.937Z [info]: Token is valid
+2024-06-16T20:31:40.948Z [info]: User 666f49c947e36043e295bf13 connected with socket ID icgBBXb4XQo_A5NyAAAG
+2024-06-16T20:31:40.948Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID ulAgAxKPQGKUUU-iAAAH
+2024-06-16T20:32:54.013Z [info]: Redis Client Connected
+2024-06-16T20:32:54.023Z [info]: Redis Client Ready
+2024-06-16T20:33:12.773Z [info]: Redis Client Connected
+2024-06-16T20:33:12.792Z [info]: Redis Client Ready
+2024-06-16T20:33:19.624Z [info]: Redis Client Connected
+2024-06-16T20:33:19.628Z [info]: Redis Client Ready
+2024-06-16T20:33:22.130Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:33:22.132Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 41-ap0tiM3ITS8sLAAAB
+2024-06-16T20:33:23.939Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:33:23.940Z [info]: User 666f49c947e36043e295bf13 connected with socket ID H37e3utsEFY3G3pEAAAD
+2024-06-16T20:44:05.970Z [info]: Redis Client Connected
+2024-06-16T20:44:05.973Z [info]: Redis Client Ready
+2024-06-16T20:44:10.881Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:44:10.936Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 0TVhUuUkpRBa8vXOAAAB
+2024-06-16T20:44:13.180Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:44:13.192Z [info]: User 666f49c947e36043e295bf13 connected with socket ID BNfG-YxvceCEjHfrAAAD
+2024-06-16T20:45:00.354Z [info]: Redis Client Connected
+2024-06-16T20:45:00.370Z [info]: Redis Client Ready
+2024-06-16T20:45:03.488Z [info]: Redis Client Connected
+2024-06-16T20:45:03.523Z [info]: Redis Client Ready
+2024-06-16T20:45:07.960Z [info]: Redis Client Connected
+2024-06-16T20:45:07.968Z [info]: Redis Client Ready
+2024-06-16T20:45:13.830Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:45:13.832Z [info]: User 666f49c947e36043e295bf13 connected with socket ID Gga8s3dLjXVGeHI9AAAB
+2024-06-16T20:45:14.395Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:45:14.397Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID ZwBOqMd4LQ3SI61FAAAD
+2024-06-16T20:45:18.908Z [info]: Redis Client Connected
+2024-06-16T20:45:18.913Z [info]: Redis Client Ready
+2024-06-16T20:45:36.390Z [info]: Redis Client Connected
+2024-06-16T20:45:36.394Z [info]: Redis Client Ready
+2024-06-16T20:45:37.753Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:45:37.787Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID lrbD_jgDRpeNvKmnAAAB
+2024-06-16T20:45:38.734Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:45:38.735Z [info]: User 666f49c947e36043e295bf13 connected with socket ID QwaWH0Cx4RTuHNmsAAAD
+2024-06-16T20:45:43.515Z [info]: Redis Client Connected
+2024-06-16T20:45:43.521Z [info]: Redis Client Ready
+2024-06-16T20:45:50.073Z [info]: Redis Client Connected
+2024-06-16T20:45:50.079Z [info]: Redis Client Ready
+2024-06-16T20:46:03.878Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:46:03.880Z [info]: User 666f49c947e36043e295bf13 connected with socket ID iON-d_1cbX_wVbclAAAB
+2024-06-16T20:46:05.210Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:46:05.214Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 4Pw7fvCHtchad6JNAAAD
+2024-06-16T20:46:24.444Z [info]: Redis Client Connected
+2024-06-16T20:46:24.452Z [info]: Redis Client Ready
+2024-06-16T20:46:28.498Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:46:28.499Z [info]: User 666f49c947e36043e295bf13 connected with socket ID MnP8iU19P2TWdBWVAAAB
+2024-06-16T20:46:29.232Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:46:29.239Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID H596l6kXg5-8Ku6GAAAD
+2024-06-16T20:46:37.298Z [info]: Redis Client Connected
+2024-06-16T20:46:37.307Z [info]: Redis Client Ready
+2024-06-16T20:46:43.378Z [info]: Redis Client Connected
+2024-06-16T20:46:43.383Z [info]: Redis Client Ready
+2024-06-16T20:46:49.956Z [info]: Redis Client Connected
+2024-06-16T20:46:49.960Z [info]: Redis Client Ready
+2024-06-16T20:46:53.747Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:46:53.749Z [info]: User 666f49c947e36043e295bf13 connected with socket ID FmyRR3DVUR1q2Tn-AAAB
+2024-06-16T20:46:53.765Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:46:53.767Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID R-JQDoCeCZPgTxViAAAD
+2024-06-16T20:46:56.089Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:46:56.089Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:46:57.828Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:46:58.008Z [info]: Token, token>>>
+2024-06-16T20:46:58.009Z [info]: Token is valid
+2024-06-16T20:46:58.060Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID R2VksUrnPiiVSmNaAAAG
+2024-06-16T20:46:58.064Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:46:58.098Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:46:58.099Z [info]: Token, token>>>
+2024-06-16T20:46:58.100Z [info]: Token is valid
+2024-06-16T20:46:58.286Z [info]: User 666f49c947e36043e295bf13 connected with socket ID UG_AVwSFG662icJLAAAH
+2024-06-16T20:46:58.286Z [info]: Updated location for user 666f49c947e36043e295bf13
+2024-06-16T20:47:35.927Z [info]: User 666f49c947e36043e295bf13 remove from redis with socket ID UG_AVwSFG662icJLAAAH
+2024-06-16T20:47:35.928Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID R2VksUrnPiiVSmNaAAAG
+2024-06-16T20:47:37.675Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:47:37.702Z [info]: Token, token>>>
+2024-06-16T20:47:37.702Z [info]: Token is valid
+2024-06-16T20:47:37.703Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:47:37.738Z [info]: Token, token>>>
+2024-06-16T20:47:37.738Z [info]: Token is valid
+2024-06-16T20:47:37.766Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID h6JyKGuvqRanryu_AAAK
+2024-06-16T20:47:37.775Z [info]: User 666f49c947e36043e295bf13 connected with socket ID qbv-lVn0b73y4dWJAAAL
+2024-06-16T20:48:51.994Z [info]: Redis Client Connected
+2024-06-16T20:48:51.999Z [info]: Redis Client Ready
+2024-06-16T20:49:09.984Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:49:09.986Z [info]: User 666f49c947e36043e295bf13 connected with socket ID jhcQFK2sKB5vazKxAAAB
+2024-06-16T20:49:10.488Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:49:10.526Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 2ZYmttovnOhtsuE5AAAD
+2024-06-16T20:49:44.741Z [info]: Redis Client Connected
+2024-06-16T20:49:44.747Z [info]: Redis Client Ready
+2024-06-16T20:50:04.658Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:50:04.659Z [info]: User 666f49c947e36043e295bf13 connected with socket ID UI0J_DkzjXp5tmCeAAAB
+2024-06-16T20:50:05.682Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:50:05.684Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID iwkUmy-BNKZ6l-6qAAAD
+2024-06-16T20:50:41.436Z [info]: Redis Client Connected
+2024-06-16T20:50:41.444Z [info]: Redis Client Ready
+2024-06-16T20:50:44.963Z [info]: Redis Client Connected
+2024-06-16T20:50:44.972Z [info]: Redis Client Ready
+2024-06-16T20:51:00.597Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:51:00.598Z [info]: User 666f49c947e36043e295bf13 connected with socket ID 1x3t9CVJeNL9vV58AAAB
+2024-06-16T20:51:01.142Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:51:01.143Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID YfZVQJkxChXTIHWZAAAD
+2024-06-16T20:51:15.314Z [info]: Redis Client Connected
+2024-06-16T20:51:15.318Z [info]: Redis Client Ready
+2024-06-16T20:51:27.964Z [info]: Redis Client Connected
+2024-06-16T20:51:28.011Z [info]: Redis Client Ready
+2024-06-16T20:51:31.234Z [info]: Redis Client Connected
+2024-06-16T20:51:31.238Z [info]: Redis Client Ready
+2024-06-16T20:51:36.722Z [info]: Redis Client Connected
+2024-06-16T20:51:36.727Z [info]: Redis Client Ready
+2024-06-16T20:51:57.478Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:51:57.480Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5fSRA8tQ355OK7YcAAAB
+2024-06-16T20:52:00.052Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:52:00.054Z [info]: User 666f49c947e36043e295bf13 connected with socket ID vx5Isk4GSwQyWr0CAAAD
+2024-06-16T20:52:02.320Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:52:02.320Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:52:03.789Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:52:03.856Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:52:03.867Z [info]: Token, token>>>
+2024-06-16T20:52:03.875Z [info]: Token is valid
+2024-06-16T20:52:03.907Z [info]: Token, token>>>
+2024-06-16T20:52:03.907Z [info]: Token is valid
+2024-06-16T20:52:03.976Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID FaR7vZzCyenSPTSmAAAF
+2024-06-16T20:52:03.980Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-16T20:52:04.004Z [info]: User 666f49c947e36043e295bf13 connected with socket ID ZxA3w8CzgFMv-zj8AAAH
+2024-06-16T20:52:08.366Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:52:08.367Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID FaR7vZzCyenSPTSmAAAF
+2024-06-16T20:52:09.905Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:52:09.919Z [info]: Token, token>>>
+2024-06-16T20:52:09.919Z [info]: Token is valid
+2024-06-16T20:52:09.924Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:52:09.951Z [info]: Token, token>>>
+2024-06-16T20:52:09.951Z [info]: Token is valid
+2024-06-16T20:52:09.955Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID JSHG4QDePwKnQj7iAAAJ
+2024-06-16T20:52:10.032Z [info]: User 666f49c947e36043e295bf13 connected with socket ID _F2RlK24oL9Q3vUUAAAL
+2024-06-16T20:54:21.613Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:54:21.614Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-16T20:54:23.352Z [info]: A user connected to socket, 666f49c947e36043e295bf13
+2024-06-16T20:54:23.422Z [info]: Token, token>>>
+2024-06-16T20:54:23.423Z [info]: Token is valid
+2024-06-16T20:54:23.473Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-16T20:54:23.484Z [info]: Token, token>>>
+2024-06-16T20:54:23.484Z [info]: Token is valid
+2024-06-16T20:54:23.500Z [info]: User 666f49c947e36043e295bf13 connected with socket ID sGid-qX7y6Vnv4veAAAO
+2024-06-16T20:54:23.504Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID Mgmrkeg-l95HF4T6AAAP
+2024-06-16T20:54:23.504Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-17T11:13:10.337Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-17T11:13:10.511Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID Mgmrkeg-l95HF4T6AAAP
+2024-06-17T18:20:49.169Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-17T18:20:49.269Z [info]: Token, token>>>
+2024-06-17T18:20:49.269Z [info]: Token is valid
+2024-06-17T18:20:49.736Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID -PslptNa_Oln-gK0AAAR
+2024-06-17T18:25:08.051Z [info]: Token, token>>>
+2024-06-17T18:25:08.054Z [info]: Token is valid
+2024-06-17T18:25:08.056Z [info]: User joined room for post 6586475e8705ba1de9134c16
+2024-06-17T18:25:10.021Z [info]: Token, token>>>
+2024-06-17T18:25:10.022Z [info]: Token is valid
+2024-06-17T18:25:10.023Z [info]: User left room for post 6586475e8705ba1de9134c16
+2024-06-18T19:29:33.321Z [info]: Redis Client Connected
+2024-06-18T19:29:33.352Z [info]: Redis Client Ready
+2024-06-18T19:29:35.943Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-18T19:29:36.119Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID wpBI7HLzAVJWj2GDAAAB
+2024-06-18T19:29:37.692Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-18T19:29:39.324Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-18T19:29:39.333Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID vqjosfvUZPd7SvUaAAAD
+2024-06-18T19:29:39.419Z [info]: Token, token>>>
+2024-06-18T19:29:39.419Z [info]: Token is valid
+2024-06-18T19:29:39.434Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:08:17.013Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID vqjosfvUZPd7SvUaAAAD
+2024-06-19T19:08:18.111Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:08:18.130Z [info]: Token, token>>>
+2024-06-19T19:08:18.131Z [info]: Token is valid
+2024-06-19T19:08:18.147Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 3oN5cTXT9gqHEsvjAAAF
+2024-06-19T19:09:30.562Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:09:30.573Z [info]: Token, token>>>
+2024-06-19T19:09:30.575Z [info]: Token is valid
+2024-06-19T19:09:30.602Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 1z7LRzy1-5QXdg0hAAAH
+2024-06-19T19:09:34.443Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:09:34.446Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:09:35.910Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:09:36.032Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID FjyRnEaDSQpsD5wBAAAJ
+2024-06-19T19:09:36.033Z [info]: Token, token>>>
+2024-06-19T19:09:36.033Z [info]: Token is valid
+2024-06-19T19:09:36.076Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:09:36.116Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:09:36.146Z [info]: Token, token>>>
+2024-06-19T19:09:36.146Z [info]: Token is valid
+2024-06-19T19:09:36.163Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 5BSWkvFC45WbhOrzAAAL
+2024-06-19T19:09:36.163Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-19T19:30:26.265Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID 5BSWkvFC45WbhOrzAAAL
+2024-06-19T19:30:26.293Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID FjyRnEaDSQpsD5wBAAAJ
+2024-06-19T19:31:22.732Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:31:22.805Z [info]: Token, token>>>
+2024-06-19T19:31:22.805Z [info]: Token is valid
+2024-06-19T19:31:22.823Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID u1ZoA-QuMB8ZdujzAAAN
+2024-06-19T19:31:22.982Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:31:23.023Z [info]: Token, token>>>
+2024-06-19T19:31:23.023Z [info]: Token is valid
+2024-06-19T19:31:23.028Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID JlcOYTwAQlLHXlPnAAAP
+2024-06-19T19:31:23.066Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:32:49.624Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:32:49.643Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID JlcOYTwAQlLHXlPnAAAP
+2024-06-19T19:32:51.252Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:32:51.700Z [info]: Token, token>>>
+2024-06-19T19:32:51.700Z [info]: Token is valid
+2024-06-19T19:32:51.791Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID eIj3euIkE7T8U2QoAAAR
+2024-06-19T19:32:51.799Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:32:51.831Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 3cw5VZS58KIDja7oAAAT
+2024-06-19T19:32:51.838Z [info]: Token, token>>>
+2024-06-19T19:32:51.838Z [info]: Token is valid
+2024-06-19T19:32:51.847Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:33:35.236Z [info]: Token, token>>>
+2024-06-19T19:33:35.237Z [info]: Token is valid
+2024-06-19T19:33:35.237Z [info]: User joined room for post 65864c7c1c2cdce0c2791010
+2024-06-19T19:33:37.470Z [info]: Token, token>>>
+2024-06-19T19:33:37.470Z [info]: Token is valid
+2024-06-19T19:33:37.472Z [info]: User left room for post 65864c7c1c2cdce0c2791010
+2024-06-19T19:33:44.203Z [info]: Token, token>>>
+2024-06-19T19:33:44.204Z [info]: Token is valid
+2024-06-19T19:33:44.204Z [info]: User joined room for post 65864c7c1c2cdce0c2791010
+2024-06-19T19:33:46.334Z [info]: Token, token>>>
+2024-06-19T19:33:46.334Z [info]: Token is valid
+2024-06-19T19:33:46.334Z [info]: User left room for post 65864c7c1c2cdce0c2791010
+2024-06-19T19:40:26.766Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:40:26.767Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID 3cw5VZS58KIDja7oAAAT
+2024-06-19T19:40:28.507Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:40:28.526Z [info]: Token, token>>>
+2024-06-19T19:40:28.527Z [info]: Token is valid
+2024-06-19T19:40:28.619Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID -IvkKMVDeZpKsxINAAAV
+2024-06-19T19:40:28.622Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:40:28.626Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID jhLkpV2o-6vszbgkAAAX
+2024-06-19T19:40:28.634Z [info]: Token, token>>>
+2024-06-19T19:40:28.635Z [info]: Token is valid
+2024-06-19T19:40:28.642Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:23.526Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID jhLkpV2o-6vszbgkAAAX
+2024-06-19T19:42:24.404Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:24.459Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID CYTw2XFTBKJumECTAAAZ
+2024-06-19T19:42:24.494Z [info]: Token, token>>>
+2024-06-19T19:42:24.494Z [info]: Token is valid
+2024-06-19T19:42:25.047Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:42:25.047Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-19T19:42:26.557Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:42:26.576Z [info]: Token, token>>>
+2024-06-19T19:42:26.583Z [info]: Token is valid
+2024-06-19T19:42:26.957Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID -lPamhvqJO6VTJIfAAAb
+2024-06-19T19:42:26.958Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:26.974Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID wk_mu1HvFKKg-ql3AAAd
+2024-06-19T19:42:26.974Z [info]: Token, token>>>
+2024-06-19T19:42:26.974Z [info]: Token is valid
+2024-06-19T19:42:26.981Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:30.249Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID wk_mu1HvFKKg-ql3AAAd
+2024-06-19T19:42:45.145Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:45.245Z [info]: Token, token>>>
+2024-06-19T19:42:45.245Z [info]: Token is valid
+2024-06-19T19:42:45.253Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID w4-LLqmhcVtPQ8ljAAAf
+2024-06-19T19:42:52.661Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:42:52.661Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-19T19:42:54.378Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:42:54.385Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:42:54.385Z [info]: Token, token>>>
+2024-06-19T19:42:54.385Z [info]: Token is valid
+2024-06-19T19:42:54.394Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID cZ8jPG_GRfUxzmCsAAAi
+2024-06-19T19:42:54.394Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID OiR6nGRaiimE_NrAAAAj
+2024-06-19T19:42:54.405Z [info]: Token, token>>>
+2024-06-19T19:42:54.406Z [info]: Token is valid
+2024-06-19T19:42:54.431Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-19T19:44:56.050Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T19:44:56.057Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID OiR6nGRaiimE_NrAAAAj
+2024-06-19T19:44:58.072Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T19:44:58.094Z [info]: Token, token>>>
+2024-06-19T19:44:58.096Z [info]: Token is valid
+2024-06-19T19:44:58.102Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T19:44:58.110Z [info]: Token, token>>>
+2024-06-19T19:44:58.110Z [info]: Token is valid
+2024-06-19T19:44:58.110Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID KI-JnSDn9fNxVR0-AAAl
+2024-06-19T19:44:58.110Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-19T19:44:58.116Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID DRQ9Jl6ldJ3GqqqJAAAn
+2024-06-19T20:00:53.534Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-19T20:00:53.536Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID KI-JnSDn9fNxVR0-AAAl
+2024-06-19T20:00:54.135Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-19T20:00:54.137Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID mZgMni8UcZzlLaM6AAAp
+2024-06-19T20:00:54.517Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-19T20:00:54.523Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID nfNADy59pul5fv-NAAAr
+2024-06-20T16:16:02.915Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:16:02.919Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:16:04.383Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:16:04.389Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:16:04.400Z [info]: Token, token>>>
+2024-06-20T16:16:04.401Z [info]: Token is valid
+2024-06-20T16:16:04.608Z [info]: Token, token>>>
+2024-06-20T16:16:04.610Z [info]: Token is valid
+2024-06-20T16:16:04.659Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID OGk63L11_Dp8gOuyAAAu
+2024-06-20T16:16:04.660Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID wPa7iAyarn4uMgw4AAAv
+2024-06-20T16:16:04.661Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:22:34.141Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:22:34.169Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID wPa7iAyarn4uMgw4AAAv
+2024-06-20T16:22:36.021Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:22:36.037Z [info]: Token, token>>>
+2024-06-20T16:22:36.038Z [info]: Token is valid
+2024-06-20T16:22:36.065Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID -5OVLovGxr7RLGtOAAAx
+2024-06-20T16:22:36.072Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:22:36.153Z [info]: Token, token>>>
+2024-06-20T16:22:36.153Z [info]: Token is valid
+2024-06-20T16:22:36.184Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID zAjXW_ncIuz39FlkAAAz
+2024-06-20T16:22:36.184Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:24:36.680Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:24:36.686Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID zAjXW_ncIuz39FlkAAAz
+2024-06-20T16:24:38.110Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:24:38.232Z [info]: Token, token>>>
+2024-06-20T16:24:38.237Z [info]: Token is valid
+2024-06-20T16:24:38.452Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID xCHcZ8noVnyYHhJeAAA1
+2024-06-20T16:24:38.496Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:24:38.516Z [info]: Token, token>>>
+2024-06-20T16:24:38.517Z [info]: Token is valid
+2024-06-20T16:24:38.521Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID v2a0HiOxp1iTZvSYAAA3
+2024-06-20T16:24:38.521Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:25:43.841Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:25:43.844Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID v2a0HiOxp1iTZvSYAAA3
+2024-06-20T16:25:45.340Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:25:45.566Z [info]: Token, token>>>
+2024-06-20T16:25:45.567Z [info]: Token is valid
+2024-06-20T16:25:45.582Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID Q1e73iTxrpRDk73GAAA5
+2024-06-20T16:25:45.582Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T16:25:45.660Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:25:45.677Z [info]: Token, token>>>
+2024-06-20T16:25:45.677Z [info]: Token is valid
+2024-06-20T16:25:45.690Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID G-441-oW_4BXQUUWAAA7
+2024-06-20T16:26:13.994Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID Q1e73iTxrpRDk73GAAA5
+2024-06-20T16:26:14.028Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:26:15.339Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:26:15.440Z [info]: Token, token>>>
+2024-06-20T16:26:15.440Z [info]: Token is valid
+2024-06-20T16:26:15.629Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID cqEbLWL5oIdFiObUAAA9
+2024-06-20T16:26:15.630Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T16:26:15.661Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:26:15.670Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 0Uc2FvCD8Spv4pXdAAA_
+2024-06-20T16:26:15.708Z [info]: Token, token>>>
+2024-06-20T16:26:15.708Z [info]: Token is valid
+2024-06-20T16:26:15.724Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:28:09.590Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID cqEbLWL5oIdFiObUAAA9
+2024-06-20T16:28:09.592Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID 0Uc2FvCD8Spv4pXdAAA_
+2024-06-20T16:28:11.018Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:28:11.080Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID sFXkvoZP9lreIn-zAABB
+2024-06-20T16:28:11.144Z [info]: Token, token>>>
+2024-06-20T16:28:11.144Z [info]: Token is valid
+2024-06-20T16:28:11.506Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T16:28:11.538Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:28:11.566Z [info]: Token, token>>>
+2024-06-20T16:28:11.567Z [info]: Token is valid
+2024-06-20T16:28:11.581Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID __2mY43rh7JpS3QXAABD
+2024-06-20T16:28:11.581Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:28:59.823Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID __2mY43rh7JpS3QXAABD
+2024-06-20T16:29:00.811Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:29:00.836Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID wNALUHxYf89ePmPwAABF
+2024-06-20T16:29:01.114Z [info]: Token, token>>>
+2024-06-20T16:29:01.117Z [info]: Token is valid
+2024-06-20T16:29:26.096Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T16:29:26.114Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID sFXkvoZP9lreIn-zAABB
+2024-06-20T16:29:27.673Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:29:27.676Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID Vo7TxPI1S_15UcJVAABH
+2024-06-20T16:29:27.699Z [info]: Token, token>>>
+2024-06-20T16:29:27.700Z [info]: Token is valid
+2024-06-20T16:29:27.714Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T16:29:27.890Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:29:27.902Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID DS5xLrW0X_DNYBaeAABJ
+2024-06-20T16:29:27.984Z [info]: Token, token>>>
+2024-06-20T16:29:27.984Z [info]: Token is valid
+2024-06-20T16:29:27.993Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:34:50.050Z [info]: Redis Client Connected
+2024-06-20T16:34:50.054Z [info]: Redis Client Ready
+2024-06-20T16:34:51.298Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:34:51.300Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID JkX_DKvhY0iEMOnSAAAB
+2024-06-20T16:34:51.970Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:34:51.971Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5O2ukwOH1BqdDwJ5AAAD
+2024-06-20T16:43:16.862Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:43:17.225Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:43:17.324Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID kVdE6xZcyXBOSb1pAAAF
+2024-06-20T16:43:17.471Z [info]: Token, token>>>
+2024-06-20T16:43:17.472Z [info]: Token is valid
+2024-06-20T16:53:38.308Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T16:53:38.347Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T16:53:40.016Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:53:40.116Z [info]: Token, token>>>
+2024-06-20T16:53:40.116Z [info]: Token is valid
+2024-06-20T16:53:40.121Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 6mPilZvD02k4kKCnAAAH
+2024-06-20T16:53:40.121Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T16:53:40.408Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T16:53:40.451Z [info]: Token, token>>>
+2024-06-20T16:53:40.480Z [info]: Token is valid
+2024-06-20T16:53:40.581Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 7OgrsPtNFiEE7VVPAAAJ
+2024-06-20T16:53:40.583Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T16:58:33.648Z [info]: Token, token>>>
+2024-06-20T16:58:33.650Z [info]: Token is valid
+2024-06-20T16:58:33.651Z [info]: User joined room for post 6586475e8705ba1de9134c16
+2024-06-20T16:58:38.189Z [info]: Token, token>>>
+2024-06-20T16:58:38.189Z [info]: Token is valid
+2024-06-20T16:58:38.190Z [info]: User left room for post 6586475e8705ba1de9134c16
+2024-06-20T16:58:45.644Z [info]: Token, token>>>
+2024-06-20T16:58:45.645Z [info]: Token is valid
+2024-06-20T16:58:45.645Z [info]: User joined room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:58:47.493Z [info]: Token, token>>>
+2024-06-20T16:58:47.494Z [info]: Token is valid
+2024-06-20T16:58:47.494Z [info]: User left room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:58:49.756Z [info]: Token, token>>>
+2024-06-20T16:58:49.756Z [info]: Token is valid
+2024-06-20T16:58:49.757Z [info]: User joined room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:58:51.599Z [info]: Token, token>>>
+2024-06-20T16:58:51.599Z [info]: Token is valid
+2024-06-20T16:58:51.599Z [info]: User left room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:58:54.816Z [info]: Token, token>>>
+2024-06-20T16:58:54.817Z [info]: Token is valid
+2024-06-20T16:58:54.817Z [info]: User joined room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:58:56.931Z [info]: Token, token>>>
+2024-06-20T16:58:56.932Z [info]: Token is valid
+2024-06-20T16:58:56.932Z [info]: User left room for post 65864c7c1c2cdce0c2791010
+2024-06-20T16:59:34.126Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID 6mPilZvD02k4kKCnAAAH
+2024-06-20T16:59:51.578Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T16:59:51.636Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID QFnvHQNK-xc-UY1RAAAL
+2024-06-20T16:59:51.674Z [info]: Token, token>>>
+2024-06-20T16:59:51.674Z [info]: Token is valid
+2024-06-20T16:59:51.686Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T17:00:04.810Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID 7OgrsPtNFiEE7VVPAAAJ
+2024-06-20T17:00:09.593Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:00:09.594Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID j_XVy4GKrwgsDDZfAAAN
+2024-06-20T17:00:09.694Z [info]: Token, token>>>
+2024-06-20T17:00:09.694Z [info]: Token is valid
+2024-06-20T17:00:09.711Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T17:00:11.688Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID j_XVy4GKrwgsDDZfAAAN
+2024-06-20T17:00:11.707Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID QFnvHQNK-xc-UY1RAAAL
+2024-06-20T17:00:13.526Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:00:13.549Z [info]: Token, token>>>
+2024-06-20T17:00:13.549Z [info]: Token is valid
+2024-06-20T17:00:13.560Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T17:00:13.561Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID OQc08Wkpx-5KFWrTAAAP
+2024-06-20T17:00:13.574Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID OvjNx7Is3ptZfo9vAAAR
+2024-06-20T17:00:13.574Z [info]: Token, token>>>
+2024-06-20T17:00:13.574Z [info]: Token is valid
+2024-06-20T17:00:13.594Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T17:00:27.655Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID OvjNx7Is3ptZfo9vAAAR
+2024-06-20T17:00:28.267Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T17:00:28.316Z [info]: Token, token>>>
+2024-06-20T17:00:28.317Z [info]: Token is valid
+2024-06-20T17:00:28.324Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID GqgTYEbgOa9vTnG7AAAT
+2024-06-20T17:01:44.387Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T17:01:45.065Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:01:45.139Z [info]: Token, token>>>
+2024-06-20T17:01:45.139Z [info]: Token is valid
+2024-06-20T17:01:45.154Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID eNta5EFvzNc8sgenAAAV
+2024-06-20T17:03:16.582Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T17:03:16.582Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T17:03:18.630Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T17:03:18.642Z [info]: Token, token>>>
+2024-06-20T17:03:18.642Z [info]: Token is valid
+2024-06-20T17:03:18.644Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:03:18.654Z [info]: Token, token>>>
+2024-06-20T17:03:18.654Z [info]: Token is valid
+2024-06-20T17:03:18.664Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID LoFrgjG2_ESLs300AAAY
+2024-06-20T17:03:18.664Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID D_VVlP8iTcc76XcMAAAZ
+2024-06-20T17:06:23.297Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T17:06:23.303Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T17:06:25.046Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T17:06:25.054Z [info]: Token, token>>>
+2024-06-20T17:06:25.054Z [info]: Token is valid
+2024-06-20T17:06:25.060Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:06:25.065Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID cX8BH900ygzTxNx3AAAb
+2024-06-20T17:06:25.079Z [info]: Token, token>>>
+2024-06-20T17:06:25.079Z [info]: Token is valid
+2024-06-20T17:06:25.098Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID WOGKMkkGsigtyudQAAAd
+2024-06-20T17:06:25.098Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T17:15:54.054Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T17:15:54.059Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID WOGKMkkGsigtyudQAAAd
+2024-06-20T17:16:00.964Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T17:16:01.107Z [info]: Token, token>>>
+2024-06-20T17:16:01.107Z [info]: Token is valid
+2024-06-20T17:16:01.124Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T17:16:01.133Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID DQhoPIRKVLeJnBAzAAAf
+2024-06-20T17:16:01.133Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID BLXbzTd1sIN_3AMIAAAh
+2024-06-20T17:16:01.165Z [info]: Token, token>>>
+2024-06-20T17:16:01.168Z [info]: Token is valid
+2024-06-20T18:13:15.022Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:13:15.024Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:13:16.322Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:13:16.459Z [info]: Token, token>>>
+2024-06-20T18:13:16.459Z [info]: Token is valid
+2024-06-20T18:13:16.558Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:13:16.626Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID Gaw_t1h3q_zTervYAAAj
+2024-06-20T18:13:16.795Z [info]: Token, token>>>
+2024-06-20T18:13:16.808Z [info]: Token is valid
+2024-06-20T18:13:16.854Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID Y3HGwJU6XbnyJImfAAAl
+2024-06-20T18:13:16.856Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:16:23.141Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:16:23.150Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID Y3HGwJU6XbnyJImfAAAl
+2024-06-20T18:16:31.014Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:16:31.016Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:16:31.040Z [info]: Token, token>>>
+2024-06-20T18:16:31.040Z [info]: Token is valid
+2024-06-20T18:16:31.062Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID cP4cEUNUP60bgW9lAAAo
+2024-06-20T18:16:31.062Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID eu75zGU81ctAdAk7AAAp
+2024-06-20T18:16:31.070Z [info]: Token, token>>>
+2024-06-20T18:16:31.070Z [info]: Token is valid
+2024-06-20T18:16:31.109Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T18:16:41.770Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:16:41.775Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID eu75zGU81ctAdAk7AAAp
+2024-06-20T18:16:44.042Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:16:44.045Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:16:44.129Z [info]: Token, token>>>
+2024-06-20T18:16:44.129Z [info]: Token is valid
+2024-06-20T18:16:44.173Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 98wN0iU8auhiTOHmAAAs
+2024-06-20T18:16:44.173Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 3_OcDDNujx0im4OnAAAt
+2024-06-20T18:16:44.223Z [info]: Token, token>>>
+2024-06-20T18:16:44.224Z [info]: Token is valid
+2024-06-20T18:17:10.477Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:17:10.477Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:17:12.082Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:17:12.098Z [info]: Token, token>>>
+2024-06-20T18:17:12.103Z [info]: Token is valid
+2024-06-20T18:17:12.109Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:17:12.113Z [info]: Token, token>>>
+2024-06-20T18:17:12.113Z [info]: Token is valid
+2024-06-20T18:17:12.125Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 2XFT7EImqPu6QLDPAAAw
+2024-06-20T18:17:12.125Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID Wy7dkbTFw40HvmzCAAAx
+2024-06-20T18:18:08.284Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:18:08.297Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:18:11.663Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:18:11.713Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:18:11.713Z [info]: Token, token>>>
+2024-06-20T18:18:11.714Z [info]: Token is valid
+2024-06-20T18:18:11.727Z [info]: Token, token>>>
+2024-06-20T18:18:11.728Z [info]: Token is valid
+2024-06-20T18:18:11.743Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID -nMKom6O5pJgGkH2AAA0
+2024-06-20T18:18:11.743Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID onCzCwWd-Mx-YKLQAAA1
+2024-06-20T18:18:19.266Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:18:19.270Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:18:47.310Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:18:47.358Z [info]: Token, token>>>
+2024-06-20T18:18:47.358Z [info]: Token is valid
+2024-06-20T18:18:47.380Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:18:47.409Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID C-OyKeQBnA7xafihAAA3
+2024-06-20T18:18:47.409Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID QRS24wgZv_uYI30bAAA5
+2024-06-20T18:18:47.421Z [info]: Token, token>>>
+2024-06-20T18:18:47.421Z [info]: Token is valid
+2024-06-20T18:18:48.057Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:18:48.058Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:18:50.078Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:18:50.087Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:18:50.092Z [info]: Token, token>>>
+2024-06-20T18:18:50.092Z [info]: Token is valid
+2024-06-20T18:18:50.110Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID n0CpNWaQRpOm4ar8AAA7
+2024-06-20T18:18:50.113Z [info]: Token, token>>>
+2024-06-20T18:18:50.113Z [info]: Token is valid
+2024-06-20T18:18:50.115Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-20T18:18:50.137Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID muUvRSkqpRePxHWJAAA9
+2024-06-20T18:18:50.137Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:19:13.188Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID n0CpNWaQRpOm4ar8AAA7
+2024-06-20T18:19:13.192Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID muUvRSkqpRePxHWJAAA9
+2024-06-20T18:19:14.928Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:19:15.014Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:19:15.025Z [info]: Token, token>>>
+2024-06-20T18:19:15.027Z [info]: Token is valid
+2024-06-20T18:19:15.059Z [info]: Token, token>>>
+2024-06-20T18:19:15.059Z [info]: Token is valid
+2024-06-20T18:19:15.086Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID LMUj7ckHm--tlKUJAABA
+2024-06-20T18:19:15.086Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID F2pxz5s6j1qLKBsEAABB
+2024-06-20T18:19:15.086Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:20:54.585Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:20:54.599Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID F2pxz5s6j1qLKBsEAABB
+2024-06-20T18:21:05.840Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:21:05.864Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:21:05.932Z [info]: Token, token>>>
+2024-06-20T18:21:05.932Z [info]: Token is valid
+2024-06-20T18:21:05.934Z [info]: Token, token>>>
+2024-06-20T18:21:05.934Z [info]: Token is valid
+2024-06-20T18:21:05.944Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID zOvqhxzT9jJnb0TwAABE
+2024-06-20T18:21:05.959Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID HAMKxKROva2Mtk28AABF
+2024-06-20T18:21:19.590Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:21:19.592Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-20T18:23:26.196Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:23:26.200Z [info]: Token, token>>>
+2024-06-20T18:23:26.200Z [info]: Token is valid
+2024-06-20T18:23:26.202Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:23:26.232Z [info]: Token, token>>>
+2024-06-20T18:23:26.233Z [info]: Token is valid
+2024-06-20T18:23:26.298Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID cnFnj6uGj-bqyb8RAABI
+2024-06-20T18:23:26.348Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5yQP8MucTGTvr3g6AABJ
+2024-06-20T18:23:39.834Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:23:39.858Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:23:41.366Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:23:41.382Z [info]: Token, token>>>
+2024-06-20T18:23:41.382Z [info]: Token is valid
+2024-06-20T18:23:41.396Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:23:41.426Z [info]: Token, token>>>
+2024-06-20T18:23:41.426Z [info]: Token is valid
+2024-06-20T18:23:41.431Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID f7Yovtmp_sWSXH4JAABM
+2024-06-20T18:23:41.431Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID 5vVLMTF_L1ihGjt4AABN
+2024-06-20T18:23:41.448Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:23:49.700Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:23:49.701Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID 5vVLMTF_L1ihGjt4AABN
+2024-06-20T18:23:50.974Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:23:51.040Z [info]: Token, token>>>
+2024-06-20T18:23:51.041Z [info]: Token is valid
+2024-06-20T18:23:51.167Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID itsdcJfmiIBuGPVhAABP
+2024-06-20T18:23:51.167Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:23:51.215Z [info]: Token, token>>>
+2024-06-20T18:23:51.215Z [info]: Token is valid
+2024-06-20T18:23:51.218Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID y5PDX1UGdC8CHddbAABR
+2024-06-20T18:23:51.262Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:24:30.530Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:24:30.534Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID y5PDX1UGdC8CHddbAABR
+2024-06-20T18:24:35.113Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:24:35.126Z [info]: Token, token>>>
+2024-06-20T18:24:35.126Z [info]: Token is valid
+2024-06-20T18:24:35.132Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:24:35.136Z [info]: Token, token>>>
+2024-06-20T18:24:35.136Z [info]: Token is valid
+2024-06-20T18:24:35.151Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID qIwthe3RWSmClfZsAABU
+2024-06-20T18:24:35.151Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID vO8_GXYhDGKIyCEFAABV
+2024-06-20T18:24:37.420Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:24:37.428Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:24:47.982Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:24:48.001Z [info]: Token, token>>>
+2024-06-20T18:24:48.001Z [info]: Token is valid
+2024-06-20T18:24:48.108Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:24:48.108Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 9uyO77vzn4kXADXJAABX
+2024-06-20T18:24:48.121Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID SHWoIiFGenZfcpGJAABZ
+2024-06-20T18:24:48.162Z [info]: Token, token>>>
+2024-06-20T18:24:48.162Z [info]: Token is valid
+2024-06-20T18:24:48.168Z [info]: Updated location for user 666d7d60b9c83d66dfea768e
+2024-06-20T18:25:03.819Z [info]: User 666d7d60b9c83d66dfea768e remove from redis with socket ID SHWoIiFGenZfcpGJAABZ
+2024-06-20T18:25:03.819Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:25:07.981Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:25:07.984Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:25:07.988Z [info]: Token, token>>>
+2024-06-20T18:25:07.992Z [info]: Token is valid
+2024-06-20T18:25:07.998Z [info]: Token, token>>>
+2024-06-20T18:25:07.998Z [info]: Token is valid
+2024-06-20T18:25:08.015Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID _0fDcRtFkt8CrUJfAABc
+2024-06-20T18:25:08.015Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID gbkK8w_QbVFa_9VTAABd
+2024-06-20T18:31:30.116Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:31:30.118Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T18:31:41.956Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T18:31:42.046Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T18:31:42.059Z [info]: Token, token>>>
+2024-06-20T18:31:42.060Z [info]: Token is valid
+2024-06-20T18:31:42.060Z [info]: Token, token>>>
+2024-06-20T18:31:42.061Z [info]: Token is valid
+2024-06-20T18:31:42.084Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID zlVne2_zdjMknCA9AABg
+2024-06-20T18:31:42.090Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID qamoCQkCJ5RuRFffAABh
+2024-06-20T22:15:46.712Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T22:15:46.717Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-20T22:15:47.254Z [info]: A user connected to socket, 666d7d60b9c83d66dfea768e
+2024-06-20T22:15:47.374Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-20T22:15:47.393Z [info]: User 666d7d60b9c83d66dfea768e connected with socket ID Y_ktEEoBFnmir9X9AABj
+2024-06-20T22:15:47.402Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID Ti_Nl079mlPDoV_0AABl
+2024-06-21T06:38:20.560Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-21T06:38:22.146Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T13:11:17.357Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T13:11:17.374Z [info]: Token, token>>>
+2024-06-22T13:11:17.374Z [info]: Token is valid
+2024-06-22T13:11:17.508Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID _vFQQW7HXPqFxY3fAABn
+2024-06-22T13:11:56.863Z [info]: Token, token>>>
+2024-06-22T13:11:56.864Z [info]: Token is valid
+2024-06-22T13:11:56.865Z [info]: User joined room for post 6586c7b297d6738c66375943
+2024-06-22T13:11:59.240Z [info]: Token, token>>>
+2024-06-22T13:11:59.241Z [info]: Token is valid
+2024-06-22T13:11:59.245Z [info]: User left room for post 6586c7b297d6738c66375943
+2024-06-22T13:12:05.804Z [info]: Token, token>>>
+2024-06-22T13:12:05.808Z [info]: Token is valid
+2024-06-22T13:12:05.809Z [info]: User joined room for post 6586c7b297d6738c66375943
+2024-06-22T13:12:07.736Z [info]: Token, token>>>
+2024-06-22T13:12:07.736Z [info]: Token is valid
+2024-06-22T13:12:07.739Z [info]: User left room for post 6586c7b297d6738c66375943
+2024-06-22T18:31:04.412Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T18:42:15.268Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:42:15.343Z [info]: Token, token>>>
+2024-06-22T18:42:15.344Z [info]: Token is valid
+2024-06-22T18:42:15.397Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID HUaWavxUPgztn22vAABp
+2024-06-22T18:42:17.447Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T18:42:45.117Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:42:45.134Z [info]: Token, token>>>
+2024-06-22T18:42:45.138Z [info]: Token is valid
+2024-06-22T18:42:45.155Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID EbGaghhhtFc913dyAABr
+2024-06-22T18:42:49.166Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T18:42:50.929Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:42:50.990Z [info]: Token, token>>>
+2024-06-22T18:42:50.991Z [info]: Token is valid
+2024-06-22T18:42:51.024Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID ZJ0ALX7uo3uF6aPyAABt
+2024-06-22T18:44:07.244Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T18:44:08.510Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:44:08.652Z [info]: Token, token>>>
+2024-06-22T18:44:08.653Z [info]: Token is valid
+2024-06-22T18:44:08.720Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID sxpcVxujuWMQYJxtAABv
+2024-06-22T18:44:08.730Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T18:44:24.098Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID sxpcVxujuWMQYJxtAABv
+2024-06-22T18:44:25.243Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:44:25.346Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID PhAoeZFKeUsrC-HGAABx
+2024-06-22T18:44:25.376Z [info]: Token, token>>>
+2024-06-22T18:44:25.376Z [info]: Token is valid
+2024-06-22T18:44:25.381Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T18:44:42.777Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID PhAoeZFKeUsrC-HGAABx
+2024-06-22T18:44:44.142Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:44:44.150Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID Vp14Xie38TYJht0WAABz
+2024-06-22T18:44:44.312Z [info]: Token, token>>>
+2024-06-22T18:44:44.312Z [info]: Token is valid
+2024-06-22T18:44:44.313Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T18:46:00.966Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID Vp14Xie38TYJht0WAABz
+2024-06-22T18:46:02.817Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:46:02.827Z [info]: Token, token>>>
+2024-06-22T18:46:02.827Z [info]: Token is valid
+2024-06-22T18:46:02.860Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 8CjmQGwlLaK7OtIaAAB1
+2024-06-22T18:46:07.059Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T18:46:08.880Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T18:46:08.885Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID YZDLDoFICom1JseHAAB3
+2024-06-22T18:46:08.914Z [info]: Token, token>>>
+2024-06-22T18:46:08.914Z [info]: Token is valid
+2024-06-22T18:46:08.926Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:06:12.548Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID YZDLDoFICom1JseHAAB3
+2024-06-22T19:09:19.961Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:09:20.006Z [info]: Token, token>>>
+2024-06-22T19:09:20.007Z [info]: Token is valid
+2024-06-22T19:09:20.026Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID dwxDXkjcmZL9pZFXAAB5
+2024-06-22T19:11:12.870Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:11:16.117Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:11:16.157Z [info]: Token, token>>>
+2024-06-22T19:11:16.158Z [info]: Token is valid
+2024-06-22T19:11:16.161Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 3yWN5Na7GF7jSsHGAAB7
+2024-06-22T19:12:29.532Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:12:31.101Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:12:31.118Z [info]: Token, token>>>
+2024-06-22T19:12:31.118Z [info]: Token is valid
+2024-06-22T19:12:31.134Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 1C0GUUhaOyTC64ceAAB9
+2024-06-22T19:17:13.925Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:17:15.326Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:17:15.329Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID ekYVushwZc94JaRqAAB_
+2024-06-22T19:17:15.379Z [info]: Token, token>>>
+2024-06-22T19:17:15.379Z [info]: Token is valid
+2024-06-22T19:17:15.418Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:29:21.503Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID ekYVushwZc94JaRqAAB_
+2024-06-22T19:29:23.587Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:29:23.590Z [info]: Token, token>>>
+2024-06-22T19:29:23.590Z [info]: Token is valid
+2024-06-22T19:29:23.593Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID aDmU-BG71JI1kB1qAACB
+2024-06-22T19:30:13.008Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:30:14.277Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:30:14.340Z [info]: Token, token>>>
+2024-06-22T19:30:14.340Z [info]: Token is valid
+2024-06-22T19:30:14.354Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID qOgWhT0hpuM4rTo3AACD
+2024-06-22T19:30:14.359Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:33:18.789Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID qOgWhT0hpuM4rTo3AACD
+2024-06-22T19:33:20.225Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:33:20.247Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID V1c3Y5x5lsmZqFTTAACF
+2024-06-22T19:33:20.309Z [info]: Token, token>>>
+2024-06-22T19:33:20.315Z [info]: Token is valid
+2024-06-22T19:33:20.330Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:33:59.129Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID V1c3Y5x5lsmZqFTTAACF
+2024-06-22T19:34:00.446Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:34:00.453Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID zhalnEJdRSu-01TWAACH
+2024-06-22T19:34:00.565Z [info]: Token, token>>>
+2024-06-22T19:34:00.566Z [info]: Token is valid
+2024-06-22T19:34:00.573Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:34:23.612Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID zhalnEJdRSu-01TWAACH
+2024-06-22T19:34:24.795Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:34:24.807Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID pG88rZ5wYp0OcaTEAACJ
+2024-06-22T19:34:24.836Z [info]: Token, token>>>
+2024-06-22T19:34:24.836Z [info]: Token is valid
+2024-06-22T19:34:24.849Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:35:01.995Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID pG88rZ5wYp0OcaTEAACJ
+2024-06-22T19:35:03.404Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:35:03.431Z [info]: Token, token>>>
+2024-06-22T19:35:03.431Z [info]: Token is valid
+2024-06-22T19:35:03.441Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID ILXugkg7mvMlh6NIAACL
+2024-06-22T19:35:03.441Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:35:31.455Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID ILXugkg7mvMlh6NIAACL
+2024-06-22T19:35:32.731Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:35:32.796Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID -XG9Eq9JDE8TebUQAACN
+2024-06-22T19:35:32.834Z [info]: Token, token>>>
+2024-06-22T19:35:32.834Z [info]: Token is valid
+2024-06-22T19:35:32.847Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:37:58.160Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID -XG9Eq9JDE8TebUQAACN
+2024-06-22T19:38:00.457Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:38:00.470Z [info]: Token, token>>>
+2024-06-22T19:38:00.470Z [info]: Token is valid
+2024-06-22T19:38:00.479Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID yQoYVtlIyOuWiC8EAACP
+2024-06-22T19:38:44.671Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:38:46.066Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:38:46.138Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID IpdQW0nIi9MLrWmhAACR
+2024-06-22T19:38:46.139Z [info]: Token, token>>>
+2024-06-22T19:38:46.139Z [info]: Token is valid
+2024-06-22T19:38:46.158Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:40:44.506Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID IpdQW0nIi9MLrWmhAACR
+2024-06-22T19:40:46.108Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:40:46.158Z [info]: Token, token>>>
+2024-06-22T19:40:46.162Z [info]: Token is valid
+2024-06-22T19:40:46.173Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID GltcI2RULxnnaqecAACT
+2024-06-22T19:40:50.937Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-22T19:41:02.647Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:41:02.777Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 0_xSesBiSVEBQRSoAACV
+2024-06-22T19:41:02.825Z [info]: Token, token>>>
+2024-06-22T19:41:02.825Z [info]: Token is valid
+2024-06-22T19:41:09.032Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-22T19:41:10.593Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:41:10.610Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID exEPI0pLw0kw6qKnAACX
+2024-06-22T19:41:10.673Z [info]: Token, token>>>
+2024-06-22T19:41:10.674Z [info]: Token is valid
+2024-06-22T19:41:10.685Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:45:03.016Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID exEPI0pLw0kw6qKnAACX
+2024-06-22T19:45:04.378Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:45:04.382Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID dTBBUPvcQuHTku0oAACZ
+2024-06-22T19:45:04.451Z [info]: Token, token>>>
+2024-06-22T19:45:04.452Z [info]: Token is valid
+2024-06-22T19:45:04.462Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:48:48.481Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID dTBBUPvcQuHTku0oAACZ
+2024-06-22T19:48:50.203Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:48:50.238Z [info]: Token, token>>>
+2024-06-22T19:48:50.240Z [info]: Token is valid
+2024-06-22T19:48:50.264Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID xPPRppf1i3p1_IuzAACb
+2024-06-22T19:48:50.275Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:49:25.660Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID xPPRppf1i3p1_IuzAACb
+2024-06-22T19:49:27.041Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:49:27.045Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID z-wjjuQECqtwv5FkAACd
+2024-06-22T19:49:27.098Z [info]: Token, token>>>
+2024-06-22T19:49:27.099Z [info]: Token is valid
+2024-06-22T19:49:27.110Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:51:45.305Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID z-wjjuQECqtwv5FkAACd
+2024-06-22T19:52:52.055Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:52:52.060Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID m0668UPjAR1hjCfdAACf
+2024-06-22T19:52:52.145Z [info]: Token, token>>>
+2024-06-22T19:52:52.145Z [info]: Token is valid
+2024-06-22T19:52:52.153Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T19:59:33.957Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID m0668UPjAR1hjCfdAACf
+2024-06-22T19:59:37.307Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T19:59:37.432Z [info]: Token, token>>>
+2024-06-22T19:59:37.434Z [info]: Token is valid
+2024-06-22T19:59:37.478Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID q9SG1yenm2VrjejbAACh
+2024-06-22T20:00:25.315Z [error]: Error removing user null from Redis: Invalid argument type
+2024-06-22T20:03:40.095Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-22T20:03:40.219Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID dHw3QWH7myHyGJwFAACj
+2024-06-22T20:03:40.236Z [info]: Token, token>>>
+2024-06-22T20:03:40.236Z [info]: Token is valid
+2024-06-22T20:03:40.253Z [info]: Updated location for user 666c7cadb9c83d66dfea7682
+2024-06-22T20:03:45.943Z [info]: User 666c7cadb9c83d66dfea7682 remove from redis with socket ID dHw3QWH7myHyGJwFAACj
+2024-06-23T10:23:11.165Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-23T10:23:11.212Z [info]: Token, token>>>
+2024-06-23T10:23:11.213Z [info]: Token is valid
+2024-06-23T10:23:11.258Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID 0ecxeolHXA9DFjLhAACl
+2024-06-23T10:23:15.965Z [error]: Error removing user undefined from Redis: Invalid argument type
+2024-06-23T10:24:06.151Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-23T10:24:06.267Z [info]: Token, token>>>
+2024-06-23T10:24:06.268Z [info]: Token is valid
+2024-06-23T10:24:06.364Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID S1sEO2psCO9YxV5wAACn
+2024-06-23T11:20:50.762Z [info]: Token, token>>>
+2024-06-23T11:20:50.773Z [info]: Token is valid
+2024-06-23T11:20:50.775Z [info]: User joined room for post 666c7180b9c83d66dfea764c
+2024-06-23T11:20:52.996Z [info]: Token, token>>>
+2024-06-23T11:20:52.996Z [info]: Token is valid
+2024-06-23T11:20:52.997Z [info]: User left room for post 666c7180b9c83d66dfea764c
+2024-06-23T14:35:24.666Z [info]: Redis Client Connected
+2024-06-23T14:35:24.711Z [info]: Redis Client Ready
+2024-06-23T14:35:27.868Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-23T14:35:27.976Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID xCNpdL3r-1GPdRM5AAAB
+2024-06-23T14:35:36.480Z [info]: Redis Client Connected
+2024-06-23T14:35:36.491Z [info]: Redis Client Ready
+2024-06-23T14:35:36.638Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-23T14:35:36.639Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID BHt5qW2xGLqa4lunAAAB
+2024-06-23T14:36:04.448Z [info]: Redis Client Connected
+2024-06-23T14:36:04.452Z [info]: Redis Client Ready
+2024-06-23T14:36:07.450Z [info]: A user connected to socket, 666c7cadb9c83d66dfea7682
+2024-06-23T14:36:07.665Z [info]: User 666c7cadb9c83d66dfea7682 connected with socket ID XpcPW1U_Jig65Y1cAAAB

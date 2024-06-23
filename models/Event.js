@@ -3,8 +3,9 @@ const mongoose = require("mongoose");
 const eventSchema = new mongoose.Schema({
     title: { type: String, required: true },
     description: { type: String, required: true },
-    start: { type: Date, required: true },
-    end: { type: Date, required: true },
+    date: { type: Date, required: true },
+    startTime: { type: String, required: true },
+    endTime: { type: String, required: true },
     location: {
         type: {
             type: String,
@@ -36,4 +37,4 @@ eventSchema.index({ location: "2dsphere" });
 
 const Event = mongoose.model("Event", eventSchema);
 
-module.exports = Event;
+module.exports = { Event };

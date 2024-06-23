@@ -3,6 +3,8 @@ const userRoutes = express.Router();
 var jwt = require("jsonwebtoken");
 const User = require("../../models/User");
 const { cartoonNames } = require("../../helpers");
+const { SECRET_KEY } = require("../../utils/constants");
+const { logger } = require("../../utils/logger");
 
 userRoutes.post("/shop", async (req, res) => {
     try {
@@ -43,7 +45,7 @@ userRoutes.post("/guest-login", async (req, res) => {
             imageId: imageId,
         });
         const savedUser = await user.save();
-        const token = jwt.sign({ _id: savedUser._id, userName }, "SECRET_KEY");
+        const token = jwt.sign({ _id: savedUser._id, userName }, SECRET_KEY);
 
         res.status(201).json({
             token,
@@ -68,6 +70,22 @@ userRoutes.post("/verify-token", async (req, res) => {
         console.error("Error creating user:", error);
         res.status(500).json({
             error: "An error occurred while creating the user.",
+        });
+    }
+});
+
+userRoutes.post("/change-image", async (req, res) => {
+    try {
+        const { userId, imageId } = req.body;
+        logger.info(`User ${userId} changed their image to ${imageId}`);
+        const user = await User.findById(userId);
+        user.imageId = imageId;
+        await user.save();
+        return res.status(200).json({ imageId });
+    } catch (error) {
+        console.error("Error changing image:", error);
+        res.status(500).json({
+            error: "An error occurred while changing the image.",
         });
     }
 });

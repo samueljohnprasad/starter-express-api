@@ -1,7 +1,8 @@
 const express = require("express");
 const Post = require("../../models/Post");
-const { calculateDistance, clusterImages } = require("../../utils/clustering");
+const { clusterImages } = require("../../utils/clustering");
 const { validateQueryParams } = require("./validators");
+const { getPreciseDistance } = require("geolib");
 const locationRoutes = express.Router();
 
 locationRoutes.get("/nearby", validateQueryParams, async (req, res) => {
@@ -20,11 +21,13 @@ locationRoutes.get("/nearby", validateQueryParams, async (req, res) => {
         const drivers = await Post.find(options).populate("user").lean();
 
         const filteredDrivers = drivers.filter((driver) => {
-            const distance = calculateDistance(
-                latitude,
-                longitude,
-                driver.location.coordinates[1],
-                driver.location.coordinates[0]
+            const distance = getPreciseDistance(
+                { latitude, longitude },
+                {
+                    latitude: driver.location.coordinates[1],
+                    longitude: driver.location.coordinates[0],
+                },
+                0.01
             );
 
             return distance - driver.maxDistance <= 0;
